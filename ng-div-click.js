@@ -4,8 +4,8 @@ angular.module('moke11.div-click', [])
             restrict: 'A',
             link: function ($scope, element, attrs) {
                 element.on('click', function () {
-                    element.html('You clicked me!');
-                });
+                    element.html('You clicked me 1!');
+               });
                 element.on('mouseenter', function () {
                     element.css('background-color', 'yellow');
                 });

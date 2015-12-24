@@ -1,6 +1,6 @@
 {
   "name": "ng-div-click",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "angular div click",
   "main": "ng-div-click.js",
   "dependencies": {
