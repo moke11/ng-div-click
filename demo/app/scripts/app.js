@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'moke11.div-click'
   ])
   .config(function ($routeProvider) {
     $routeProvider
