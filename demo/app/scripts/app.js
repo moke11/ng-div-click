@@ -29,6 +29,11 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
+      .when('/simple', {
+        templateUrl: 'views/simple.html',
+        controller: 'SimpleCtrl',
+        controllerAs: 'simple'
+      })
       .otherwise({
         redirectTo: '/'
       });
