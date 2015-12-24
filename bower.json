@@ -1,0 +1,27 @@
+{
+  "name": "ng-div-click",
+  "homepage": "https://github.com/moke11/ng-div-click",
+  "authors": [
+    "Rick Mokros <rmokros@mokesit.com>"
+  ],
+  "description": "angular div click",
+  "main": "directive.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6"
+  }
+}
