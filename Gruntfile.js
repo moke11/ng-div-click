@@ -12,7 +12,7 @@ module.exports = function (grunt) {
                     sourceMappingURL: 'ng-div-click.min.map'
                 },
                 files: {
-                    'angular-div-click.min.js': 'ng-div-click.js'
+                    'moke11-div-click.min.js': 'ng-div-click.js'
                 }
             }
         }
